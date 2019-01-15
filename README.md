@@ -2,7 +2,7 @@
 
 **User Guide**
 
-<div align="center"><img src="https://github.com/Sawyer117/Detect-breathing-using-CW-radar-MATLAB-GUI/blob/master/Pic/1.jpg" width="50%" height="50%" alt=""/></div>
+<div align="center"><img src="https://github.com/Sawyer117/Detect-breathing-using-CW-radar-MATLAB-GUI/blob/master/Pic/1.jpg" width="90%" height="90%" alt=""/></div>
 <p align="center"> Fig.1 User Interface </p>
 
 In order to use this GUI,three files are needed and they should be placed in the same directory.For example:
